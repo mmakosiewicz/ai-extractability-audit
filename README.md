@@ -109,12 +109,11 @@ It uses exactly what you give it: no rounding 23.4% to "nearly a quarter", no up
 
 These are empirical and will date. Re-check them before leaning on the numbers.
 
-## Companion skills
+## Companion skill
 
 - [**query-match-audit**](https://github.com/mmakosiewicz/query-match-audit) — the layer before this one: does the page match the query at all, and is it worth retrieving?
-- [**blog-style-editing**](https://github.com/mmakosiewicz/blog-style-editing) — the editorial craft layer underneath both.
 
-They stack: be *relevant* enough to retrieve, *extractable* enough to quote, *well written* enough to deserve it.
+They stack: be *relevant* enough to retrieve, then *extractable* enough to quote. This skill is the second layer; it runs standalone and has no dependency on the other.
 
 ## License
 
